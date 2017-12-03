@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PureJavaPrograme.iml" filepath="$PROJECT_DIR$/PureJavaPrograme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structures/data_structures.iml" filepath="$PROJECT_DIR$/data_structures/data_structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" filepath="$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicprogramming/dynamicprogramming.iml" filepath="$PROJECT_DIR$/dynamicprogramming/dynamicprogramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greedy_algorithms/greedy_algorithms.iml" filepath="$PROJECT_DIR$/greedy_algorithms/greedy_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nm_javalib/nm_javalib.iml" filepath="$PROJECT_DIR$/nm_javalib/nm_javalib.iml" />
+    </modules>
+  </component>
+</project>

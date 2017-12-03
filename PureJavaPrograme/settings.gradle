@@ -1,0 +1,1 @@
+include ':app', ':nm_javalib', ':greedy_algorithms', ':dynamic_programming', ':data_structures', ':dynamicprogramming'
